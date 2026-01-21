@@ -1,12 +1,17 @@
-## Hi there 👋 
+# 👋 مرحبًا! أنا Moumen Arixo
 
-# Moumen Arixo
+🎮 **Gamer • Tech Enthusiast • Creator**
 
-👋 أهلاً! أنا **Moumen Arixo**
+🔗 الموقع الرسمي: https://arixo.netlify.app
 
-🎮 Gamer & Tech Enthusiast  
-🌐 Official Website: https://arixo.netlify.app  
-💻 GitHub: https://github.com/Moumen-Arixo
+## 💡 من أنا
+أنا **Moumen Arixo**، أشارك شغفي بالألعاب والتقنية، وأعمل على نشر محتوى مفيد للمجتمع العربي في هذا المجال.
 
-مرحبًا بكم في مشاريعي ومحتواي التقني!
+## 📌 مشاريعي
+- 🕹️ ألعاب مفضلة: Warzone, Battlefield  
+- 💻 مشاريع تقنية تجدها هنا في GitHub  
+- 🌐 موقع رسمي يحتوي على معلوماتي
 
+## 📫 تواصل معي
+- 🌐 موقع: https://arixo.netlify.app
+- 🐱 GitHub: https://github.com/Moumen-Arixo
